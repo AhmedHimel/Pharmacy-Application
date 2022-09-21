@@ -1,0 +1,31 @@
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\bin\Debug\Final Project.exe.config
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\bin\Debug\Final Project.exe
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\bin\Debug\Final Project.pdb
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final Project.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.healthcare.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final Project.exe
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final Project.pdb
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.deliveryman.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.doctor.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.ordermedicine.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.doctorconsultation.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.emergencycall.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.end.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.selectservice.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.registration.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.admin.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.adlogin.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.userinformation.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.uslogin.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.userselect.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.empinfo.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.medinfo.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.emcallinfo.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.addmed.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.upmed.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.dmlogin.resources
+G:\My Drive\C Sharp Final Project\Final Project\Final Project\obj\Debug\Final_Project.dclogin.resources
